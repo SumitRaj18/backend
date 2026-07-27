@@ -1,4 +1,18 @@
 const data = [
+   {
+    name: `Job Portal`,
+    img: "https://i0.wp.com/www.magetop.com/blog/wp-content/uploads/2019/12/Top-10-eCommerce-Webshttps://d3jbu7vaxvlagf.cloudfront.net/small/v2/category_media/logo_template_img_16736029999804.pngites.png?fit=740%2C430&ssl=1",
+    review: `A robust MERN job board bridging the gap between students and recruiters with seamless job posting,`,
+    code:`https://jobportal-by-sumit.netlify.app/`,
+    github:`https://github.com/SumitRaj18/Job-Portal`
+  },
+   {
+    name: `Youtube Watch Party`,
+    img: "https://static.vecteezy.com/system/resources/thumbnails/018/930/572/small_2x/youtube-logo-youtube-icon-transparent-free-png.png",
+    review: `A full-stack collaborative video platform enabling users to create synchronized rooms for real-time YouTube playback, interactive live chatting, and seamless room management.`,
+    code:`https://youtube-watch-party-by-sumit.netlify.app/`,
+    github:`https://github.com/SumitRaj18/Youtube-Watch-Party`
+  },
      {
     name: `E-Commerce`,
     img: "https://i0.wp.com/www.magetop.com/blog/wp-content/uploads/2019/12/Top-10-eCommerce-Websites.png?fit=740%2C430&ssl=1",
